@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Iterator<I extends Number> {
+public class IteratorDemo<I extends Number> {
     public static void main(String[] args) {
         Set<Integer> scores = new TreeSet<Integer>();
         scores.add(94);
